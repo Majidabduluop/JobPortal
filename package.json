@@ -5,7 +5,7 @@
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@mantine/carousel": "^7.14.3",
-    "@mantine/core": "^7.14.3",
+    "@mantine/core": "^7.15.1",
     "@mantine/dates": "^7.15.1",
     "@mantine/hooks": "^7.14.3",
     "@mantine/notifications": "^7.17.3",
